@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.thehkh.com
+  - host: java-maven-eks-app.2ml.online
     http:
       paths:
       - path: /
